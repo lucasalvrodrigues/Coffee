@@ -1,0 +1,1 @@
+Ideia inicial de um cardápio virtual para restaurante no geral, utilizei uma cafeteria como exemplo, pretendo ir melhorando o código conforme vou avançando nos estudos.
