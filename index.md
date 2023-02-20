@@ -1,1 +1,1 @@
-Ideia inicial de um cardápio virtual para restaurante no geral, utilizei uma cafeteria como exemplo, pretendo ir melhorando o código conforme vou avançando nos estudos.
+Ideia inicial de um cardápio virtual para restaurante no geral com leitor de QR code para acessar, utilizei uma cafeteria como exemplo, pretendo ir melhorando o código conforme vou avançando nos estudos.
